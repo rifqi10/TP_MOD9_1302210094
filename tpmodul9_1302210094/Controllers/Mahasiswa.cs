@@ -6,7 +6,7 @@ using tpmodul9_1302210094;
 
 // For more information on enabling Web API for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
 
-namespace tpmodul9_1302210084.Controllers
+namespace tpmodul9_1302210094.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
